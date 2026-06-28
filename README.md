@@ -76,31 +76,31 @@ Applicants can also upload their resumes to receive instant feedback and recomme
 
 ## Recruiter Portal
 
-![Recruiter Portal](images/recruiter.png)
+![Recruiter Portal](images/recruiter_upload.png)
 
 ---
 
 ## Resume Ranking
 
-![Resume Ranking](images/recruiter-results.png)
+![Resume Ranking](images/recruiter_ranking.png)
 
 ---
 
 ## Analytics Dashboard
 
-![Analytics Dashboard](images/recruiter-charts.png)
+![Analytics Dashboard](images/recruiter_score.png)
 
 ---
 
 ## Applicant Portal
 
-![Applicant Portal](images/applicant.png)
+![Applicant Portal](images/applicant_upload.png)
 
 ---
 
 ## ATS Analysis
 
-![ATS Analysis](images/ats-score.png)
+![ATS Analysis](images/applicant_score.png)
 
 # Project Structure
 CACHE-ATS
